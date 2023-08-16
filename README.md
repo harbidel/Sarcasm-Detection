@@ -1,2 +1,2 @@
 # Sarcasm-Detection
-Building a machine Learning Model to Predict Sarcasm
+Building a Machine Learning Model to Predict Sarcasm
